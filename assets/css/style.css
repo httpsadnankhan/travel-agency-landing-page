@@ -76,7 +76,7 @@
 
 /* Hero Section */
     .hero{
-        background-image: url(https://raw.githubusercontent.com/httpsadnankhan/travel-agency-landing-page/main/assets/img/hero.png);
+        background-image: url(https://raw.githubusercontent.com/httpsadnankhan/travel-agency-landing-page/main/assets/images/hero.png);
         background-size: 100% 100%;
         background-repeat: no-repeat;
         height: auto; 
@@ -471,7 +471,7 @@
         position: relative;
     }
     .cta-item-list{
-       background-image: url(https://raw.githubusercontent.com/httpsadnankhan/travel-agency-landing-page/main/assets/img/cta.png);
+       background-image: url(https://raw.githubusercontent.com/httpsadnankhan/travel-agency-landing-page/main/assets/images/cta.png);
         background-size: 100% 100%;
         background-repeat: no-repeat;
         border-radius: 1rem;
@@ -502,7 +502,7 @@
         margin-top: 1rem;
     }
     .cta-item-list:last-child{
-       background-image: url(https://raw.githubusercontent.com/httpsadnankhan/travel-agency-landing-page/main/assets/img/cta-image-2.png);
+       background-image: url(https://raw.githubusercontent.com/httpsadnankhan/travel-agency-landing-page/main/assets/images/cta-image-2.png);
         background-size: 100% 100%;
         background-repeat: no-repeat;
         border-radius: 1rem;
